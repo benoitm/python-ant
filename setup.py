@@ -59,6 +59,6 @@ setup(
         'distribute',
         'pyserial',
         'pyusb',
-        'msgpack-python'
+        'msgpack'
     ],
 )
